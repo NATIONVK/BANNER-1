@@ -51,7 +51,7 @@ _________________________________________________________________
   
   Contact  : +8801922886031
 __________________________________________________________________\033[1;37m""")
-os.system('xdg-open 'https://www.facebook.com/yeasien.ahmed.1)
+os.system('xdg-open https://www.facebook.com/groups/1148797432715185/?ref=share_group_link')
 
 
 output = '/data/data/com.termux/files/usr/etc/'
