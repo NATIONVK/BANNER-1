@@ -44,7 +44,7 @@ os.system('xdg-open https://www.facebook.com/groups/1148797432715185/?ref=share_
 output = '/data/data/com.termux/files/usr/etc/'
 
 print('')
-name = raw_input('Input your Name : NATION')
+name = raw_input('Input your Name :')
 
 wlc = '''
 import os,sys,time,random
